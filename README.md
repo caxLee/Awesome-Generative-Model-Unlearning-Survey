@@ -6,13 +6,11 @@
 ![](https://img.shields.io/github/stars/caxLee/Generative-model-unlearning-survey?color=yellow)
 ![](https://img.shields.io/github/forks/caxLee/Generative-model-unlearning-survey?color=lightblue)
 
-<p align="center">
-<img src="fig/taxonomy.png" alt="Framework" />
-</p>
+
 
 ## News
 🤗 We're actively working on this project, and your interest is greatly appreciated! To keep up with the latest developments, please consider hit the **STAR** 🌟 and **WATCH** for updates.
-* Our survey paper: [A Comprehensive Survey on Self-Supervised Learning for Recommendation]((https://arxiv.org/abs/2507.19894) is public.
+* Our survey paper: [A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction]((https://arxiv.org/abs/2507.19894) is public.
 
 ## Overview
 
