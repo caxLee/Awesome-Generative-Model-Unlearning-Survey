@@ -1,26 +1,33 @@
 # Generative-model-unlearning-survey
 [![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://arxiv.org/abs/2507.19894)
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/caxLee/Generative-model-unlearning-survey)
-
+![](https://img.shields.io/github/last-commit/caxLee/Generative-model-unlearning-survey?color=green)
+![](https://img.shields.io/badge/PRs-Welcome-red)
+![](https://img.shields.io/github/stars/caxLee/Generative-model-unlearning-survey?color=yellow)
+![](https://img.shields.io/github/forks/caxLee/Generative-model-unlearning-survey?color=lightblue)
 
 <p align="center">
 <img src="fig/taxonomy.png" alt="Framework" />
 </p>
 
 ## News
-
+🤗 We're actively working on this project, and your interest is greatly appreciated! To keep up with the latest developments, please consider hit the **STAR** 🌟 and **WATCH** for updates.
+* Our survey paper: [A Comprehensive Survey on Self-Supervised Learning for Recommendation]((https://arxiv.org/abs/2507.19894) is public.
 
 ## Overview
 
 
 
-引用格式：
+We hope this repository proves valuable to your research or practice in the field of self-supervised learning for recommendation systems. If you find it helpful, please consider citing our work:
 ```bibtex
-@article{ren2024comprehensive,
-  title={A Comprehensive Survey on Self-Supervised Learning for Recommendation},
-  author={Ren, Xubin and Wei, Wei and Xia, Lianghao and Huang, Chao},
-  journal={arXiv preprint arXiv:2404.03354},
-  year={2024}
+@misc{feng2025surveygenerativemodelunlearning,
+      title={A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction}, 
+      author={Xiaohua Feng and Jiaming Zhang and Fengyuan Yu and Chengye Wang and Li Zhang and Kaixiang Li and Yuyuan Li and Chaochao Chen and Jianwei Yin},
+      year={2025},
+      eprint={2507.19894},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2507.19894}, 
 }
 ```
 
@@ -29,88 +36,19 @@
   - [News](#news)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
-  - [General Collaborative Filtering](#🌐-general-collaborative-filtering)
-  - [Sequential Recommendation](#🌐-sequential-recommendation)
-  - [Social Recommendation](#🌐-socail-recommendation)
-  - [Knowledge-aware Recommendation](#🌐-knowledge-aware-recommendation)
-  - [Cross-domain Recommendation](#🌐-cross-domain-recommendation)
-  - [Bundle Recommendation](#🌐-bundle-recommendation)
-  - [Group Recommendation](#🌐-group-recommendation)
-  - [Multi-behavior Recomendation](#🌐-multi-behavior-recommendation)
-  - [Multi-modal Recommendation](#🌐-multi-modal-recommendation)
+ 
 
 ## Related Resources
 
 
-## 🌐 General Collaborative Filtering
-### Contrastive Learning
-
-### Generative Learning
-
-### Adversarial Learning
-
-## 🌐 Sequential Recommendation
-### Contrastive Learning
-
-### Generative Learning
-
-### Adversarial Learning
-
-## 🌐 Social Recommendation
-### Contrastive Learning
-
-### Adversarial Learning
-
-## 🌐 Knowledge-aware Recommendation
-### Contrastive Learning
-
-### Generative Learning
-
-## 🌐 Cross-domain Recommendation
-### Contrastive Learning
-
-### Generative Learning
-
-### Adversarial Learning
-
-## 🌐 Bundle Recommendation
-### Contrastive Learning
-
-### Generative Learning
-
-## 🌐 Group Recommendation
-### Contrastive Learning
-
-## 🌐 Multi-behavior Recommendation
-### Contrastive Learning
-
-### Generative Learning
-
-## 🌐 Multi-modal Recommendation
-### Contrastive Learning
-
-### Generative Learning
-
-### Adversarial Learning
 
 ## Contributing
+If you have come across relevant resources, feel free to submit a pull request.
 ```
 - (Journal/Confernce'20XX) **paper_name** [[paper](link)]
 ```
 
-```
-Contrastive Methods
-  - View Creation (Data-based / Feature-based / Model-based)
-  - Pair Sampling (Natural / Score-based)
-  - Contrastive Objective (InfoNCE-based / JS-based / Explicit)
-Generative Methods
-  - Generative Learning Paradigm (Variational Autoencoding / Masked Autoencoding / Denoised Diffusion)
-  - Generation Target
-Adversarial Methods:
-  - Adversarial Learning Paradigm (Differentiable / Non-Differentiable)
-  - Adversarial Target
-Please also consider providing a brief introduction about the method to help us quickly add the paper to our survey :)
-```
+
 
 ## Acknowledgements
-
+The design of our README.md is inspired by [Awesome-SSLRec-Papers](https://github.com/HKUDS/Awesome-SSLRec-Papers), thanks to their works!
