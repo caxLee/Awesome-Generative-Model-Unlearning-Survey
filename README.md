@@ -30,7 +30,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 ```
 
 ## Table of Contents
-- [Awesome-SSLRec-Papers](#awesome-sslrec-papers)
+- [Generative-model-unlearning-survey](#generative-model-unlearning-survey)
   - [News](#news)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
