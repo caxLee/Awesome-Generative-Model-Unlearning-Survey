@@ -57,45 +57,57 @@ We hope this repository proves valuable to your research or practice in the fiel
 
 ## 🌐 Point-wise Unlearning
 ### Text_demo（Unofficial version, currently being updated, please understand）
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
+- (ACL'2023) Knowledge Unlearning for Mitigating Privacy Risks in Language Models [[paper](https://aclanthology.org/2023.acl-long.805/)]
+- (EMNLP'2024) Fine-grained Pluggable Gradient Ascent for Knowledge Unlearning in Language Models [[paper](https://aclanthology.org/2024.emnlp-main.566/)]
+- (ICML'2024) To Each (Textual Sequence) Its Own: Improving Memorized-Data Unlearning in Large Language Models [[paper](https://arxiv.org/abs/2405.03097)]
+- (AAAI'2025) Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models [[paper](https://arxiv.org/abs/2402.05813)]
+- (ACL'2024) Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models [[paper](https://aclanthology.org/2024.findings-acl.936/)]
+- (arxiv'2024) Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models [[paper](https://arxiv.org/abs/2403.10557)]
+- (ICLR'2025) Provable unlearning in topic modeling and downstream tasks [[paper](https://arxiv.org/abs/2411.12600)]
+- (ACL'2023) KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment [[paper](https://arxiv.org/abs/2305.06535)]
+- (FOCS'2025) Towards Efficient and Effective Unlearning of Large Language Models for Recommendation [[paper](https://arxiv.org/abs/2403.03536)]
+- (ICLR'2025) On Large Language Model Continual Unlearning [[paper](https://arxiv.org/abs/2407.10223)]
+- (arxiv'2025) AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for Large Language Models using Data Chunking [[paper](https://arxiv.org/abs/2503.02443)]
+- (EMNLP'2024) Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models [[paper](https://aclanthology.org/2024.findings-emnlp.630/)]
+- (arxiv'2024) SEUF: Is Unlearning One Expert Enough for Mixture-of-Experts LLMs? [[paper](https://arxiv.org/abs/2411.18797)]
+- (arxiv'2024) Hotfixing Large Language Models for Code [[paper](https://arxiv.org/abs/2408.05727)]
+- (COLM'2024) The Unreasonable Effectiveness of Deep Features as a Perceptual Metric [[paper](https://arxiv.org/abs/1801.03924)]
+- (COLING'2025) Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models [[paper](https://arxiv.org/abs/2409.13474)]
+- (NeurIPS'2024) Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning [[paper](https://arxiv.org/abs/2410.07163)]
+- (EMNLP'2023) DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models [[paper](https://aclanthology.org/2023.emnlp-main.174/)]
+- (NeurIPS'2025) WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models [[paper](https://arxiv.org/abs/2410.17509)]
+- (arxiv'2025) FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model [[paper](https://arxiv.org/abs/2502.01472)]
+- (NAACL'2025) Avoiding Copyright Infringement via Large Language Model Unlearning [[paper](https://arxiv.org/abs/2406.10952)]
+- (ICLR'2025) Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs [[paper](https://arxiv.org/abs/2408.06621)]
+- (ICLR'2025) Large Scale Knowledge Washing [[paper](https://arxiv.org/abs/2405.16720)]
+- (arxiv'2025) LUNAR: LLM Unlearning via Neural Activation Redirection [[paper](https://arxiv.org/abs/2502.07218)]
+- (AAAI'2025) On Effects of Steering Latent Representation for Large Language Model Unlearning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34544)]
+- (ICML'2024) In-Context Unlearning: Language Models as Few Shot Unlearners [[paper](https://arxiv.org/abs/2310.07579)]
+- (arxiv'2024) Unlearnable Algorithms for In-context Learning [[paper](https://arxiv.org/abs/2402.00751)]
+- (arxiv'2024) Guardrail Baselines for Unlearning in LLMs [[paper](https://arxiv.org/abs/2403.03329)]
+- (ACL'2025) Soft Prompting for Unlearning in Large Language Models [[paper](https://aclanthology.org/2025.naacl-long.204/)]
+- (NeurIPS'2024) Large Language Model Unlearning via Embedding-Corrupted Prompts [[paper](https://arxiv.org/abs/2406.07933)]
+- (arxiv'2025) A General Framework to Enhance Fine-tuning-based LLM Unlearning [[paper](https://aclanthology.org/2025.findings-acl.949/)]
+- (PMLR'2025) Offset Unlearning for Large Language Models [[paper](https://arxiv.org/abs/2404.11045)]
+- (NeurIPS'2024) Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference [[paper](https://arxiv.org/abs/2406.08607)]
+- (COLM'2025) ALU: Agentic LLM Unlearning [[paper](https://www.researchgate.net/publication/388657979_ALU_Agentic_LLM_Unlearning)]
+- (arxiv'2024) Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning [[paper](https://arxiv.org/abs/2410.13274)]
+- (NeurIPS'2024) Cross-model Control: Improving Multiple Large Language Models in One-time Training [[paper](https://arxiv.org/abs/2410.17599)]
+
 ### Image
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
+- (SaTML'2023) Data Redaction from Pre-trained GANs [[paper](https://arxiv.org/abs/2206.14389)]
+- (TDSC'2025) Generative Adversarial Networks Unlearning [[paper](https://arxiv.org/abs/2308.09881)]
+- (ICLR'2025) Controllable Unlearning for Image-to-Image Generative Models via \varepsilon-Constrained Optimization [[paper](https://arxiv.org/abs/2408.01689)]
+- (ICLR'2024) Machine Unlearning for Image-to-Image Generative Models [[paper](https://arxiv.org/abs/2402.00351)]
+
 ### Audio
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
+- (-'2024) Do Not Mimic My Voice: Teacher-Guided Unlearning for Zero-Shot Text-to-Speech [[paper](https://openreview.net/forum?id=v9LjNopQ6W)]
+
 ### Multimodal
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
-- ('202)  [[paper]()]
+- (EMNLP'2024) Can Textual Unlearning Solve Cross-Modality Safety Alignment? [[paper](https://aclanthology.org/2024.findings-emnlp.574/)]
+- (ACL'2025) CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP [[paper](https://aclanthology.org/2025.acl-long.1469/)]
+- (ACL'2025) Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models [[paper](https://aclanthology.org/2025.acl-long.295/)]
+
 
 ## 🌐 Concept-wise Unlearning
 ### Text
@@ -118,6 +130,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (NeurIPS'2024) Applying Sparse Autoencoders to Unlearn Knowledge in Language Models. [[paper](https://arxiv.org/abs/2410.19278)]
 - (arxiv'2024) When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge? [[paper](https://arxiv.org/abs/2410.15267)]
 - (ACL'2021) DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts. [[paper](https://arxiv.org/abs/2105.03023)]
+
 ### Image
 - (SaTML'2023) Data redaction from pre-trained gans. [[paper](https://arxiv.org/abs/2206.14389)]
 - (TDSC'2025) Generative Adversarial Networks Unlearning. [[paper](https://arxiv.org/abs/2308.09881)]
@@ -168,11 +181,12 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (CVPR'2025) Precise, fast, and low-cost concept erasure in value space: Orthogonal complement matters. [[paper](https://arxiv.org/abs/2412.06143)]
 - (NeurIPS'2023) Concept algebra for (score-based) text-controlled generative models. [[paper](https://arxiv.org/abs/2302.03693)]
 - (TAI'2025) FAST: Feature Aware Similarity Thresholding for weak unlearning in black-box generative models. [[paper](https://arxiv.org/abs/2312.14895)]
-### Audio
 
 ### Multimodal
 - (NeurIPS'2024) Single image unlearning: Efficient machine unlearning in multimodal large language models. [[paper](https://arxiv.org/abs/2405.12523)]
 - (ACL'2025) MMUnlearner: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models. [[paper](https://arxiv.org/abs/2502.11051)]
+
+
 ## Contributing
 If you have come across relevant resources, feel free to submit a pull request.
 ```
