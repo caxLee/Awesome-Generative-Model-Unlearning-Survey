@@ -10,16 +10,7 @@
 A collection of papers and resources about  Generative Model Unlearning (**GenMU**).
 
 With the rapid advancement of generative models, associated privacy concerns have attracted growing attention. To address this,
-researchers have begun adapting machine unlearning techniques from traditional classification models to generative settings. Although
-notable progress has been made in this area, a unified framework for systematically organizing and integrating existing work is still
-lacking. The substantial differences among current studies in terms of unlearning objectives and evaluation protocols hinder the
-objective and fair comparison of various approaches. While some studies focus on specific types of generative models, they often
-overlook the commonalities and systematic characteristics inherent in Generative Model Unlearning (GenMU). To bridge this gap,
-we provide a comprehensive review of current research on GenMU and propose a unified analytical framework for categorizing
-unlearning objectives, methodological strategies, and evaluation metrics. In addition, we explore the connections between GenMU and
-related techniques, including model editing, reinforcement learning from human feedback, and controllable generation. We further
-highlight the potential practical value of unlearning techniques in real-world applications. Finally, we identify key challenges and
-outline future research directions aimed at laying a solid foundation for further advancements in this field.
+Researchers have begun adapting machine unlearning techniques from traditional classification models to generative settings. Although notable progress has been made, a unified framework for systematically organizing and integrating existing work is still lacking. The substantial differences among current studies in terms of unlearning objectives and evaluation protocols hinder the objective and fair comparison of various approaches. While some studies focus on specific types of generative models, they often overlook the commonalities and systematic characteristics inherent in Generative Model Unlearning (GenMU). To bridge this gap, we provide a comprehensive review of current research on GenMU and propose a unified analytical framework for categorizing unlearning objectives, methodological strategies, and evaluation metrics. In addition, we explore the connections between GenMU and related techniques, including model editing, reinforcement learning from human feedback, and controllable generation. We further highlight the potential practical value of unlearning techniques in real-world applications. Finally, we identify key challenges and outline future research directions aimed at laying a solid foundation for further advancements in this field.
 
 <p align="center">
 <img src="fig/framework.png" alt="Framework" />
@@ -56,7 +47,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 ## Related 
 
 ## 🌐 Point-wise Unlearning
-### Text_demo（Unofficial version, currently being updated, please understand）
+### Text
 - (ACL'2023) Knowledge Unlearning for Mitigating Privacy Risks in Language Models [[paper](https://aclanthology.org/2023.acl-long.805/)]
 - (EMNLP'2024) Fine-grained Pluggable Gradient Ascent for Knowledge Unlearning in Language Models [[paper](https://aclanthology.org/2024.emnlp-main.566/)]
 - (ICML'2024) To Each (Textual Sequence) Its Own: Improving Memorized-Data Unlearning in Large Language Models [[paper](https://arxiv.org/abs/2405.03097)]
