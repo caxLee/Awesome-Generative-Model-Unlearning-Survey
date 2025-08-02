@@ -56,7 +56,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 ## Related 
 
 ## 🌐 Point-wise Unlearning
-### Text
+### Text_demo（Unofficial version, currently being updated, please understand）
 - (ACL'2023) Contrastive Learning for Recommender System [[paper](https://arxiv.org/abs/2101.01317)]
 - (CIKM'2021) SimpleX: A Simple and Strong Baseline for Collaborative Filtering [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482297)]
 - (SIGIR'2021) Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization [[paper](https://dl.acm.org/doi/abs/10.1145/3404835.3462928)]
