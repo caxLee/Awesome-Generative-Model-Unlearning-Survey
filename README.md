@@ -41,8 +41,8 @@ We hope this repository proves valuable to your research or practice in the fiel
   - [News](#news)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents) 
-  - [Point-wise Unlearning](#point-wise-Unlearning)
-  - [Concept-wise Unlearning](#concept-wise-Unlearning)
+  - [Point-wise Unlearning](#point-wise-unlearning)
+  - [Concept-wise Unlearning](#concept-wise-unlearning)
   
 
 ## Related 
