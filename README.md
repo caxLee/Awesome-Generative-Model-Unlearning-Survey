@@ -104,7 +104,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 ## Concept-wise Unlearning
 ### Text
 - (arxiv'2023) Who’s Harry Potter? Approximate Unlearning in LLMs. [[paper](https://arxiv.org/abs/2310.02238)]
-- (EMNLP'2024) Revisiting Who’s Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective. [[paper] (https://arxiv.org/abs/2407.16997)]
+- (EMNLP'2024) Revisiting Who’s Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective. [[paper](https://arxiv.org/abs/2407.16997)]
 - (ICASSP'2025) Multi-Objective Large Language Model Unlearning. [[paper](https://arxiv.org/abs/2412.20412)]
 - (ACL'2023) The CRINGE Loss: Learning what language not to model. [[paper](https://arxiv.org/abs/2211.05826)]
 - (NeurIPS'2024) Large language model unlearning. [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html)]
