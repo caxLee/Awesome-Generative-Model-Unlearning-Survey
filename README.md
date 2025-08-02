@@ -47,7 +47,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 
 ## Related 
 
-## 🌐 Point-wise Unlearning
+## Point-wise Unlearning
 ### Text
 - (ACL'2023) Knowledge Unlearning for Mitigating Privacy Risks in Language Models [[paper](https://aclanthology.org/2023.acl-long.805/)]
 - (EMNLP'2024) Fine-grained Pluggable Gradient Ascent for Knowledge Unlearning in Language Models [[paper](https://aclanthology.org/2024.emnlp-main.566/)]
@@ -101,7 +101,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (ACL'2025) Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models [[paper](https://aclanthology.org/2025.acl-long.295/)]
 
 
-## 🌐 Concept-wise Unlearning
+## Concept-wise Unlearning
 ### Text
 - (arxiv'2023) Who’s Harry Potter? Approximate Unlearning in LLMs. [[paper](https://arxiv.org/abs/2310.02238)]
 - (EMNLP'2024) Revisiting Who’s Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective. [[paper]- (https://arxiv.org/abs/2407.16997)]
