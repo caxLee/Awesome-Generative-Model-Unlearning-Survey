@@ -21,7 +21,25 @@ With the rapid advancement of generative models, associated privacy concerns hav
 * Our survey paper: [A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction]((https://arxiv.org/abs/2507.19894) is public.
 
 ## Overview
-This repository compiles the latest advancements in Generative Unlearning (GENMU). We categorize and summarize existing studies based on four primary frameworks: Model: *1) text, 2) image, 3) audio,  4) multimodal*; Target: *1) point-wise unlearning, 2) concept-wise unlearning*; Method: *1) Parameter-based (full/partial/external parameter updates), 2) Non-parametric (non-parametric updates)*; Metric: *1) unlearning completeness, 2) model utility,  3) efficiency*. Finally, we further explore its Applications and Challenges.
+This repository systematically reviews the latest advancements in Generative Unlearning (GenMU). We categorize and summarize existing studies based on four primary aspects: 
+
+1. ‌Model Types‌:
+* Text-based models
+* Image-based models
+* Audio-based models
+* Multimodal models
+2. ‌Unlearning Targets‌:
+* Point-wise unlearning
+* Concept-wise unlearning
+‌3. Methodological Approaches‌:
+* Parameter-based methods (i.e., full, partial, and external parameter update)
+* Non-parametric methods (i.e., non-parametric update)
+‌4. Evaluation Metrics‌:
+* Unlearning completeness
+* Model utility
+* Efficiency
+
+Finally, we further explore its applications and challenges.
 <p align="center">
 <img src="fig/framework.svg" alt="Framework" />
 </p>
