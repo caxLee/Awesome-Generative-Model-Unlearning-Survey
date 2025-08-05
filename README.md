@@ -23,21 +23,21 @@ With the rapid advancement of generative models, associated privacy concerns hav
 ## Overview
 This repository systematically reviews the latest advancements in Generative Unlearning (GenMU). We categorize and summarize existing studies based on four primary aspects: 
 
-- 1. ‌Model Types‌:
-- * Text-based models
-- * Image-based models
-- * Audio-based models
-- * Multimodal models
-- 2. ‌Unlearning Targets‌:
-- * Point-wise unlearning
-- * Concept-wise unlearning
-- 3. Methodological Approaches‌:
-- * Parameter-based methods (i.e., full, partial, and external parameter update)
-- * Non-parametric methods (i.e., non-parametric update)
-- 4. Evaluation Metrics‌:
-- * Unlearning completeness
-- * Model utility
-- * Efficiency
+1. ‌Model Types‌:
+ * Text-based models
+ * Image-based models
+ * Audio-based models
+ * Multimodal models
+2. ‌Unlearning Targets‌:
+ * Point-wise unlearning
+ * Concept-wise unlearning
+3. Methodological Approaches‌:
+ * Parameter-based methods (i.e., full, partial, and external parameter update)
+ * Non-parametric methods (i.e., non-parametric update)
+4. Evaluation Metrics‌:
+ * Unlearning completeness
+ * Model utility
+ * Efficiency
 
 Finally, we further explore its applications and challenges.
 <p align="center">
