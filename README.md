@@ -1,4 +1,4 @@
-# Generative-model-unlearning-survey
+# Awesome-Generative-model-unlearning-survey
 [![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://arxiv.org/abs/2507.19894)
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/caxLee/Generative-model-unlearning-survey)
 ![](https://img.shields.io/github/last-commit/caxLee/Generative-model-unlearning-survey?color=green)
@@ -9,11 +9,12 @@
 
 A collection of papers and resources about  Generative Model Unlearning (**GenMU**).
 
+<p align="center">
+<img src="fig/intro.png" alt="Intro" />
+</p>
+
 With the rapid advancement of generative models, associated privacy concerns have attracted growing attention. To address this, researchers have begun adapting machine unlearning techniques from traditional classification models to generative settings. Although notable progress has been made, a unified framework for systematically organizing and integrating existing work is still lacking. The substantial differences among current studies in terms of unlearning objectives and evaluation protocols hinder the objective and fair comparison of various approaches. While some studies focus on specific types of generative models, they often overlook the commonalities and systematic characteristics inherent in Generative Model Unlearning (GenMU). To bridge this gap, we provide a comprehensive review of current research on GenMU and propose a unified analytical framework for categorizing unlearning objectives, methodological strategies, and evaluation metrics. In addition, we explore the connections between GenMU and related techniques, including model editing, reinforcement learning from human feedback, and controllable generation. We further highlight the potential practical value of unlearning techniques in real-world applications. Finally, we identify key challenges and outline future research directions aimed at laying a solid foundation for further advancements in this field.
 
-<p align="center">
-<img src="fig/framework.png" alt="Framework" />
-</p>
 
 ## News
 🤗 We're actively working on this project, and your interest is greatly appreciated! To keep up with the latest developments, please consider hit the **STAR** 🌟 and **WATCH** for updates.
@@ -21,7 +22,9 @@ With the rapid advancement of generative models, associated privacy concerns hav
 
 ## Overview
 
-
+<p align="center">
+<img src="fig/framework.png" alt="Framework" />
+</p>
 
 We hope this repository proves valuable to your research or practice in the field of self-supervised learning for recommendation systems. If you find it helpful, please consider citing our work:
 ```bibtex
@@ -37,7 +40,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 ```
 
 ## Table of Contents
-- [Generative-model-unlearning-survey](#generative-model-unlearning-survey)
+- [Awesome-Generative-model-unlearning-survey](#awesome-generative-model-unlearning-survey)
   - [News](#news)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents) 
