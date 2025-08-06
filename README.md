@@ -18,7 +18,7 @@ With the rapid advancement of generative models, associated privacy concerns hav
 
 ## News
 🤗 We're actively working on this project, and your interest is greatly appreciated! To keep up with the latest developments, please consider hit the **STAR** 🌟 and **WATCH** for updates.
-* Our survey paper: [A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction]((https://arxiv.org/abs/2507.19894) is public.
+* Our survey paper: [A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction](https://arxiv.org/abs/2507.19894) is public.
 
 ## Overview
 This repository systematically reviews the latest advancements in Generative Unlearning (GenMU). We categorize and summarize existing studies based on four primary aspects: 
