@@ -103,12 +103,21 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (COLM'2025) ALU: Agentic LLM Unlearning [[paper](https://www.researchgate.net/publication/388657979_ALU_Agentic_LLM_Unlearning)]
 - (arxiv'2024) Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning [[paper](https://arxiv.org/abs/2410.13274)]
 - (NeurIPS'2024) Cross-model Control: Improving Multiple Large Language Models in One-time Training [[paper](https://arxiv.org/abs/2410.17599)]
+<p align="center">
+<img src="fig/1.svg" alt="Intro"  width="100%"/>
+</p>
 
 ### Image
 - (SaTML'2023) Data Redaction from Pre-trained GANs [[paper](https://arxiv.org/abs/2206.14389)]
 - (TDSC'2025) Generative Adversarial Networks Unlearning [[paper](https://arxiv.org/abs/2308.09881)]
 - (ICLR'2025) Controllable Unlearning for Image-to-Image Generative Models via \varepsilon-Constrained Optimization [[paper](https://arxiv.org/abs/2408.01689)]
 - (ICLR'2024) Machine Unlearning for Image-to-Image Generative Models [[paper](https://arxiv.org/abs/2402.00351)]
+<p align="center">
+<img src="fig/2.svg" alt="Intro"  width="100%"/>
+</p>
+<p align="center">
+<img src="fig/3.svg" alt="Intro"  width="100%"/>
+</p>
 
 ### Audio
 - (-'2024) Do Not Mimic My Voice: Teacher-Guided Unlearning for Zero-Shot Text-to-Speech [[paper](https://openreview.net/forum?id=v9LjNopQ6W)]
@@ -117,7 +126,15 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (EMNLP'2024) Can Textual Unlearning Solve Cross-Modality Safety Alignment? [[paper](https://aclanthology.org/2024.findings-emnlp.574/)]
 - (ACL'2025) CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP [[paper](https://aclanthology.org/2025.acl-long.1469/)]
 - (ACL'2025) Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models [[paper](https://aclanthology.org/2025.acl-long.295/)]
-
+<p align="center">
+<img src="fig/4.svg" alt="Intro"  width="100%"/>
+</p>
+<p align="center">
+<img src="fig/5.svg" alt="Intro"  width="100%"/>
+</p>
+<p align="center">
+<img src="fig/6.svg" alt="Intro"  width="100%"/>
+</p>
 
 ## Concept-wise Unlearning
 ### Text
@@ -140,6 +157,9 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (NeurIPS'2024) Applying Sparse Autoencoders to Unlearn Knowledge in Language Models. [[paper](https://arxiv.org/abs/2410.19278)]
 - (arxiv'2024) When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge? [[paper](https://arxiv.org/abs/2410.15267)]
 - (ACL'2021) DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts. [[paper](https://arxiv.org/abs/2105.03023)]
+<p align="center">
+<img src="fig/7.svg" alt="Intro"  width="100%"/>
+</p>
 
 ### Image
 - (SaTML'2023) Data redaction from pre-trained gans. [[paper](https://arxiv.org/abs/2206.14389)]
@@ -191,11 +211,19 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (CVPR'2025) Precise, fast, and low-cost concept erasure in value space: Orthogonal complement matters. [[paper](https://arxiv.org/abs/2412.06143)]
 - (NeurIPS'2023) Concept algebra for (score-based) text-controlled generative models. [[paper](https://arxiv.org/abs/2302.03693)]
 - (TAI'2025) FAST: Feature Aware Similarity Thresholding for weak unlearning in black-box generative models. [[paper](https://arxiv.org/abs/2312.14895)]
+<p align="center">
+<img src="fig/8.svg" alt="Intro"  width="100%"/>
+</p>
+<p align="center">
+<img src="fig/9.svg" alt="Intro"  width="100%"/>
+</p>
 
 ### Multimodal
 - (NeurIPS'2024) Single image unlearning: Efficient machine unlearning in multimodal large language models. [[paper](https://arxiv.org/abs/2405.12523)]
 - (ACL'2025) MMUnlearner: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models. [[paper](https://arxiv.org/abs/2502.11051)]
-
+<p align="center">
+<img src="fig/10.svg" alt="Intro"  width="100%"/>
+</p>
 
 ## Contributing
 If you have come across relevant resources, feel free to submit a pull request.
