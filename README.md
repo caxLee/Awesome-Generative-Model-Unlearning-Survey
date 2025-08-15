@@ -64,14 +64,13 @@ We hope this repository proves valuable to your research or practice in the fiel
   
 
 ## Related 
-
+In the last paper of the category, we presented some demos to illustrate the comparison before and after unlearning.
 ## Point-wise Unlearning
 ### Text
 - (ACL'2023) Knowledge Unlearning for Mitigating Privacy Risks in Language Models [[paper](https://aclanthology.org/2023.acl-long.805/)]
 - (EMNLP'2024) Fine-grained Pluggable Gradient Ascent for Knowledge Unlearning in Language Models [[paper](https://aclanthology.org/2024.emnlp-main.566/)]
 - (ICML'2024) To Each (Textual Sequence) Its Own: Improving Memorized-Data Unlearning in Large Language Models [[paper](https://arxiv.org/abs/2405.03097)]
 - (AAAI'2025) Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models [[paper](https://arxiv.org/abs/2402.05813)]
-- (ACL'2024) Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models [[paper](https://aclanthology.org/2024.findings-acl.936/)]
 - (arxiv'2024) Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models [[paper](https://arxiv.org/abs/2403.10557)]
 - (ICLR'2025) Provable unlearning in topic modeling and downstream tasks [[paper](https://arxiv.org/abs/2411.12600)]
 - (ACL'2023) KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment [[paper](https://arxiv.org/abs/2305.06535)]
@@ -103,6 +102,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (COLM'2025) ALU: Agentic LLM Unlearning [[paper](https://www.researchgate.net/publication/388657979_ALU_Agentic_LLM_Unlearning)]
 - (arxiv'2024) Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning [[paper](https://arxiv.org/abs/2410.13274)]
 - (NeurIPS'2024) Cross-model Control: Improving Multiple Large Language Models in One-time Training [[paper](https://arxiv.org/abs/2410.17599)]
+- (ACL'2024) Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models [[paper](https://aclanthology.org/2024.findings-acl.936/)]
 <p align="center">
 <img src="fig/1.svg" alt="Intro"  width="100%"/>
 </p>
@@ -146,7 +146,6 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (ACL'2023) Unlearning bias in language models by partitioning gradients. [[paper](https://aclanthology.org/2023.findings-acl.375/)]
 - (ICML'2025) Tool Unlearning for Tool-Augmented LLMs. [[paper](https://arxiv.org/abs/2502.01083)]
 - (NeurIPS'2022) Quark: Controllable text generation with reinforced unlearning. [[paper](https://arxiv.org/abs/2205.13636)]
-- (ACL'2025) Opt-Out: Investigating Entity-Level Unlearning for Large Language Models via Optimal Transport. [[paper](https://arxiv.org/abs/2406.12329)]
 - (ICLR'2023) Editing models with task arithmetic. [[paper](https://arxiv.org/abs/2212.04089)]
 - (NAACL'2024) Ethos: Rectifying Language Models in Orthogonal Parameter Space. [[paper](https://arxiv.org/abs/2403.08994)]
 - (ACL'2024) Making Harmful Behaviors Unlearnable for Large Language Models. [[paper](https://arxiv.org/abs/2311.02105)]
@@ -157,6 +156,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (NeurIPS'2024) Applying Sparse Autoencoders to Unlearn Knowledge in Language Models. [[paper](https://arxiv.org/abs/2410.19278)]
 - (arxiv'2024) When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge? [[paper](https://arxiv.org/abs/2410.15267)]
 - (ACL'2021) DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts. [[paper](https://arxiv.org/abs/2105.03023)]
+- (ACL'2025) Opt-Out: Investigating Entity-Level Unlearning for Large Language Models via Optimal Transport. [[paper](https://arxiv.org/abs/2406.12329)]
 <p align="center">
 <img src="fig/7.svg" alt="Intro"  width="100%"/>
 </p>
@@ -168,7 +168,6 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (AAAI'2024) Feature unlearning for pre-trained GANs and VAEs. [[paper](https://arxiv.org/abs/2303.05699)]
 - (WACV'2024) Taming Normalizing Flows. [[paper](https://arxiv.org/abs/2211.16488)]
 - (ICCV'2023) Erasing Concepts from Diffusion Models. [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Gandikota_Erasing_Concepts_from_Diffusion_Models_ICCV_2023_paper.html)]
-- (CVPR'2025) Ace: Anti-editing concept erasure in text-to-image models. [[paper](https://arxiv.org/abs/2501.01633)]
 - (ICCV'2023) Ablating Concepts in Text-to-Image Diffusion Models. [[paper](https://arxiv.org/abs/2303.13516)]
 - (ACM MM'2023) Degeneration-Tuning: Using Scrambled Grid shield Unwanted Concepts from Stable Diffusion. [[paper](https://arxiv.org/abs/2308.02552)]
 - (ACM CCS'2024) Safegen: Mitigating sexually explicit content generation in text-to-image models. [[paper](https://arxiv.org/abs/2404.06666)]
@@ -211,6 +210,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (CVPR'2025) Precise, fast, and low-cost concept erasure in value space: Orthogonal complement matters. [[paper](https://arxiv.org/abs/2412.06143)]
 - (NeurIPS'2023) Concept algebra for (score-based) text-controlled generative models. [[paper](https://arxiv.org/abs/2302.03693)]
 - (TAI'2025) FAST: Feature Aware Similarity Thresholding for weak unlearning in black-box generative models. [[paper](https://arxiv.org/abs/2312.14895)]
+- (CVPR'2025) Ace: Anti-editing concept erasure in text-to-image models. [[paper](https://arxiv.org/abs/2501.01633)]
 <p align="center">
 <img src="fig/8.svg" alt="Intro"  width="100%"/>
 </p>
