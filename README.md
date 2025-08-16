@@ -64,7 +64,6 @@ We hope this repository proves valuable to your research or practice in the fiel
   
 
 ## Related 
-In the last paper of the category, we presented some demos to illustrate the comparison before and after unlearning.
 ## Point-wise Unlearning
 ### Text
 - (ACL'2023) Knowledge Unlearning for Mitigating Privacy Risks in Language Models [[paper](https://aclanthology.org/2023.acl-long.805/)]
