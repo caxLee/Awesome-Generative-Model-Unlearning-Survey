@@ -114,9 +114,6 @@ We hope this repository proves valuable to your research or practice in the fiel
 <p align="center">
 <img src="fig/2.svg" alt="Intro"  width="100%"/>
 </p>
-<p align="center">
-<img src="fig/3.svg" alt="Intro"  width="100%"/>
-</p>
 
 ### Audio
 - (-'2024) Do Not Mimic My Voice: Teacher-Guided Unlearning for Zero-Shot Text-to-Speech [[paper](https://openreview.net/forum?id=v9LjNopQ6W)]
@@ -126,13 +123,10 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (ACL'2025) CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP [[paper](https://aclanthology.org/2025.acl-long.1469/)]
 - (ACL'2025) Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models [[paper](https://aclanthology.org/2025.acl-long.295/)]
 <p align="center">
+<img src="fig/3.svg" alt="Intro"  width="100%"/>
+</p>
+<p align="center">
 <img src="fig/4.svg" alt="Intro"  width="100%"/>
-</p>
-<p align="center">
-<img src="fig/5.svg" alt="Intro"  width="100%"/>
-</p>
-<p align="center">
-<img src="fig/6.svg" alt="Intro"  width="100%"/>
 </p>
 
 ## Concept-wise Unlearning
@@ -158,9 +152,11 @@ We hope this repository proves valuable to your research or practice in the fiel
 > - (ACL'2025) Opt-Out: Investigating Entity-Level Unlearning for Large Language Models via Optimal Transport. [[paper](https://arxiv.org/abs/2406.12329)]
 >
 > <p align="center">
-> <img src="fig/7.svg" alt="Intro"  width="100%"/>
+> <img src="fig/5.1.svg" alt="Intro"  width="100%"/>
 > </p>
-
+> <p align="center">
+> <img src="fig/5.2.svg" alt="Intro"  width="100%"/>
+> </p>
 ### Image
 - (SaTML'2023) Data redaction from pre-trained gans. [[paper](https://arxiv.org/abs/2206.14389)]
 - (TDSC'2025) Generative Adversarial Networks Unlearning. [[paper](https://arxiv.org/abs/2308.09881)]
@@ -212,17 +208,15 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (TAI'2025) FAST: Feature Aware Similarity Thresholding for weak unlearning in black-box generative models. [[paper](https://arxiv.org/abs/2312.14895)]
 - (CVPR'2025) Ace: Anti-editing concept erasure in text-to-image models. [[paper](https://arxiv.org/abs/2501.01633)]
 <p align="center">
-<img src="fig/8.svg" alt="Intro"  width="100%"/>
+<img src="fig/6.svg" alt="Intro"  width="100%"/>
 </p>
-<p align="center">
-<img src="fig/9.svg" alt="Intro"  width="100%"/>
-</p>
+
 
 ### Multimodal
 - (NeurIPS'2024) Single image unlearning: Efficient machine unlearning in multimodal large language models. [[paper](https://arxiv.org/abs/2405.12523)]
 - (ACL'2025) MMUnlearner: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models. [[paper](https://arxiv.org/abs/2502.11051)]
 <p align="center">
-<img src="fig/10.svg" alt="Intro"  width="100%"/>
+<img src="fig/7.svg" alt="Intro"  width="100%"/>
 </p>
 
 ## Contributing
