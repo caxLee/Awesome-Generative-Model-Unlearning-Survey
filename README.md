@@ -155,10 +155,11 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (NeurIPS'2024) Applying Sparse Autoencoders to Unlearn Knowledge in Language Models. [[paper](https://arxiv.org/abs/2410.19278)]
 - (arxiv'2024) When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge? [[paper](https://arxiv.org/abs/2410.15267)]
 - (ACL'2021) DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts. [[paper](https://arxiv.org/abs/2105.03023)]
-- (ACL'2025) Opt-Out: Investigating Entity-Level Unlearning for Large Language Models via Optimal Transport. [[paper](https://arxiv.org/abs/2406.12329)]
-<p align="center">
-<img src="fig/7.svg" alt="Intro"  width="100%"/>
-</p>
+> - (ACL'2025) Opt-Out: Investigating Entity-Level Unlearning for Large Language Models via Optimal Transport. [[paper](https://arxiv.org/abs/2406.12329)]
+>
+> <p align="center">
+> <img src="fig/7.svg" alt="Intro"  width="100%"/>
+> </p>
 
 ### Image
 - (SaTML'2023) Data redaction from pre-trained gans. [[paper](https://arxiv.org/abs/2206.14389)]
