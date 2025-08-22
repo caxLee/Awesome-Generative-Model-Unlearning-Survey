@@ -110,7 +110,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 ### Image
 - (SaTML'2023) Data Redaction from Pre-trained GANs [[paper](https://arxiv.org/abs/2206.14389)]
 - (TDSC'2025) Generative Adversarial Networks Unlearning [[paper](https://arxiv.org/abs/2308.09881)]
-- (ICLR'2025) Controllable Unlearning for Image-to-Image Generative Models via \varepsilon-Constrained Optimization [[paper](https://arxiv.org/abs/2408.01689)]
+- (ICLR'2025) Controllable Unlearning for Image-to-Image Generative Models via $\varepsilon$-Constrained Optimization [[paper](https://arxiv.org/abs/2408.01689)]
 > - (ICLR'2024) **Machine Unlearning for Image-to-Image Generative Models** [[paper](https://arxiv.org/abs/2402.00351)]
 >
 > <p align="center">
