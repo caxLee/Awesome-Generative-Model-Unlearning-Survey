@@ -118,7 +118,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 > </p>
 
 ### Audio
-- (-'2024) Do Not Mimic My Voice: Teacher-Guided Unlearning for Zero-Shot Text-to-Speech [[paper](https://openreview.net/forum?id=v9LjNopQ6W)]
+- (ICML'2025) Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech [[paper](https://www.arxiv.org/abs/2507.20140)]
 
 ### Multimodal
 - (EMNLP'2024) Can Textual Unlearning Solve Cross-Modality Safety Alignment? [[paper](https://aclanthology.org/2024.findings-emnlp.574/)]
