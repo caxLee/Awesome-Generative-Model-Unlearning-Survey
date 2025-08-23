@@ -101,8 +101,9 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (COLM'2025) ALU: Agentic LLM Unlearning [[paper](https://www.researchgate.net/publication/388657979_ALU_Agentic_LLM_Unlearning)]
 - (arxiv'2024) Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning [[paper](https://arxiv.org/abs/2410.13274)]
 - (NeurIPS'2024) Cross-model Control: Improving Multiple Large Language Models in One-time Training [[paper](https://arxiv.org/abs/2410.17599)]
-> - (ACL'2024) **Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models** [[paper](https://aclanthology.org/2024.findings-acl.936/)]
->
+- (ACL'2024) **Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models** [[paper](https://aclanthology.org/2024.findings-acl.936/)]
+> - (NAACL'2025) Avoiding Copyright Infringement via Large Language Model Unlearning [[paper](https://arxiv.org/abs/2406.10952)]
+
 > <p align="center">
 > <img src="fig/1.svg" alt="Intro"  width="100%"/>
 > </p>
